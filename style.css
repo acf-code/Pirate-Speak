@@ -1,0 +1,19 @@
+/* Google Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+/* Body */
+body {
+    background-color: rgb(229, 255, 196);
+    font-family: Georgia;
+    margin: 30px;
+}
+
+/* Text Boxes */
+textarea {
+    width: 400px;
+    height: 200px;   
+    font-family: 'Dancing Script', cursive;
+    color: rgb(96, 33, 156);
+    font-size: 20px;
+}
+
